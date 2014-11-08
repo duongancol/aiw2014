@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/activeadmin/activeadmin.git
-  revision: aa23647f29d5596663755822b7bfee09a3b989b6
+  revision: ad4caab46f1813bedf5acdb7739a17da546a5609
   specs:
     activeadmin (1.0.0.pre)
       arbre (~> 1.0, >= 1.0.2)
@@ -50,10 +50,6 @@ GEM
     arel (5.0.1.20140414130214)
     bcrypt (3.1.9)
     bcrypt (3.1.9-x86-mingw32)
-    bcrypt-ruby (3.1.5)
-      bcrypt (>= 3.1.3)
-    bcrypt-ruby (3.1.5-x86-mingw32)
-      bcrypt (>= 3.1.3)
     bourbon (3.2.3)
       sass (~> 3.2)
       thor
@@ -135,7 +131,7 @@ GEM
       polyamorous (~> 1.1)
     rdoc (4.1.2)
       json (~> 1.4)
-    responders (1.1.1)
+    responders (1.1.2)
       railties (>= 3.2, < 4.2)
     sass (3.2.19)
     sass-rails (4.0.4)
@@ -163,8 +159,6 @@ GEM
       coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2014.9)
-      tzinfo (>= 1.0.0)
     uglifier (2.5.3)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
@@ -177,7 +171,6 @@ PLATFORMS
 
 DEPENDENCIES
   activeadmin!
-  bcrypt-ruby
   coffee-rails (~> 4.0.0)
   devise
   jbuilder (~> 2.0)
@@ -188,5 +181,4 @@ DEPENDENCIES
   sdoc (~> 0.4.0)
   spring
   turbolinks
-  tzinfo-data
   uglifier (>= 1.3.0)
