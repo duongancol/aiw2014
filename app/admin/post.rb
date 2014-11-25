@@ -15,4 +15,13 @@ ActiveAdmin.register Post do
   # end
 
   permit_params :title, :content, :category_id
+  form do |f|
+    f.inputs do
+      f.input :title
+      f.input :content, as: :wysihtml5, height: :medium
+      f.input :category
+    end
+
+    f.actions
+  end
 end

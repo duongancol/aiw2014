@@ -45,4 +45,8 @@ gem 'activeadmin', github: 'activeadmin'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+# 
+# Editor
+gem 'activeadmin-dragonfly', github: 'stefanoverna/activeadmin-dragonfly'
+gem 'activeadmin-wysihtml5', github: 'stefanoverna/activeadmin-wysihtml5'
 
