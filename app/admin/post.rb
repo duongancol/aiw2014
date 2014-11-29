@@ -31,10 +31,6 @@ ActiveAdmin.register Post do
       @post.created_user = current_admin_user.email
     end  
 
-    def edit
-      @post = Post.new
-      @post.created_user = current_admin_user.email
-    end
   end
   
 end
