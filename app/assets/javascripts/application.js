@@ -10,10 +10,10 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery.min
-//= require jquery_ujs
-// require turbolinks
-//=require_tree .
+//= require_tree .
 //require bootstrap.min
-//= require jquery.dropotron.min
-// require custom
+//require cbpAnimatedHeader
+//require classie
+//require contact_me
+//require jqBootstrapValidation
+//require jquery.easing.min

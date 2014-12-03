@@ -1,0 +1,1820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"layout",
+				"layouts"
+			],
+			[
+				"current",
+				"current_admin_user"
+			],
+			[
+				"admin",
+				"admin_user_id"
+			],
+			[
+				"font",
+				"font-size:   (property)"
+			],
+			[
+				"color",
+				"color:   (property)"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"has",
+				"has_many"
+			],
+			[
+				"param",
+				"permit_params"
+			],
+			[
+				"be",
+				"belongs_to"
+			],
+			[
+				"permit",
+				"permit_params"
+			],
+			[
+				"THEME",
+				"THEMEROOT"
+			],
+			[
+				"_S",
+				"_SESSION  (variable)"
+			],
+			[
+				"submit",
+				"submit_btn"
+			],
+			[
+				"e_section",
+				"e_section_header_title"
+			],
+			[
+				"require",
+				"required"
+			],
+			[
+				"mauris_",
+				"mauris_opt"
+			],
+			[
+				"has_",
+				"has_post_format"
+			],
+			[
+				"has_post",
+				"has_post_format"
+			],
+			[
+				"audio",
+				"audio_link"
+			],
+			[
+				"Sounc",
+				"Soundclound"
+			],
+			[
+				"mysqli",
+				"mysqli_connect  (function)"
+			],
+			[
+				"social",
+				"social_header_text"
+			],
+			[
+				"sing",
+				"single_post_page_title_show"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"get_page",
+				"get_page_by_title"
+			],
+			[
+				"location",
+				"locations"
+			],
+			[
+				"nav_menu",
+				"nav_menu_locations"
+			],
+			[
+				"mauris",
+				"mauris_view_demo"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"get_tem",
+				"get_template_directory"
+			],
+			[
+				"fetch",
+				"fetch_attachments"
+			],
+			[
+				"class_wp",
+				"class_wp_importer"
+			],
+			[
+				"mauris_demo",
+				"mauris_view_demo"
+			],
+			[
+				"WP_",
+				"WP_Importer"
+			],
+			[
+				"class",
+				"class_wp_import  (variable)"
+			],
+			[
+				"var_",
+				"var_dump  (function)"
+			],
+			[
+				"logo",
+				"logo_default  (variable)"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri"
+			],
+			[
+				"demo_",
+				"demo_two"
+			],
+			[
+				"secure",
+				"secure_file_name"
+			],
+			[
+				"appy",
+				"apply_filters"
+			],
+			[
+				"admin_",
+				"admin_enqueue_scripts"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"manage",
+				"manage_options"
+			],
+			[
+				"mau",
+				"mauris_demo_importer_menu"
+			],
+			[
+				"aler",
+				"alert(text)"
+			],
+			[
+				"slider",
+				"slider"
+			],
+			[
+				"get_temp",
+				"get_template_directory"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"til",
+				"title"
+			],
+			[
+				"next_post",
+				"next_post_id"
+			],
+			[
+				"client",
+				"client_name"
+			],
+			[
+				"get_post",
+				"get_posts"
+			],
+			[
+				"add_",
+				"add_action"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"rea",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"the_psot",
+				"the_post_thumbnail"
+			],
+			[
+				"get_post_th",
+				"get_the_post_thumbnail"
+			],
+			[
+				"post",
+				"post__not_in"
+			],
+			[
+				"number",
+				"numberposts"
+			],
+			[
+				"wp_get_post",
+				"wp_get_post_categories"
+			],
+			[
+				"categor",
+				"category__in"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"WP_Que",
+				"WP_Query"
+			],
+			[
+				"posts",
+				"posts_per_page"
+			],
+			[
+				"first",
+				"first_tag"
+			],
+			[
+				"function",
+				"function_exitsts"
+			],
+			[
+				"head",
+				"head_style"
+			],
+			[
+				"menu",
+				"menu_style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"flickr",
+				"flickr_badge_image"
+			],
+			[
+				"main",
+				"mainMenuWalker"
+			],
+			[
+				"infor",
+				"infor-text.scss"
+			],
+			[
+				"pack",
+				"package	@package"
+			],
+			[
+				"if",
+				"iframe	<iframe>"
+			],
+			[
+				"image",
+				"image_src"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"meta_Box",
+				"meta_boxes"
+			],
+			[
+				"butot",
+				"button"
+			],
+			[
+				"pri",
+				"priority"
+			],
+			[
+				"pricing",
+				"pricing_package_info"
+			],
+			[
+				"pa",
+				"package_faetures"
+			],
+			[
+				"package_f",
+				"package_faeture"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"external",
+				"external_url"
+			],
+			[
+				"get_comment_author",
+				"get_comment_author"
+			],
+			[
+				"prev",
+				"previous_posts_link"
+			],
+			[
+				"pagina",
+				"paginate"
+			],
+			[
+				"pagi",
+				"pageinates"
+			],
+			[
+				"colum",
+				"columnizer"
+			],
+			[
+				"flex",
+				"flexslider"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"swit",
+				"switcher"
+			],
+			[
+				"get_template",
+				"get_template_directory"
+			],
+			[
+				"g",
+				"globals	$GLOBALS['…']"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"maur",
+				"mauris_opt"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Redux",
+				"ReduxFramework"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"get_sear",
+				"get_search_query"
+			],
+			[
+				"curre",
+				"current_page"
+			],
+			[
+				"not",
+				"nothing"
+			],
+			[
+				"theme",
+				"theme_location"
+			],
+			[
+				"wp",
+				"wp_nav_menu"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"get_comments_",
+				"get_comments_number"
+			],
+			[
+				"single",
+				"single_term_title"
+			],
+			[
+				"edit",
+				"edit_post_link"
+			],
+			[
+				"comments_",
+				"comments_open"
+			],
+			[
+				"comments",
+				"comments_template"
+			],
+			[
+				"post_",
+				"post_password_required"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"char",
+				"charset"
+			],
+			[
+				"language",
+				"language_attributes"
+			],
+			[
+				"get_next_",
+				"get_next_posts_link"
+			],
+			[
+				"get_pre",
+				"get_previous_posts_link"
+			],
+			[
+				"function_exit",
+				"function_exists"
+			],
+			[
+				"comment_o",
+				"comments_popup_link"
+			],
+			[
+				"category",
+				"category_list"
+			],
+			[
+				"previous",
+				"previous_posts_link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\n\n\n// ** MySQL settings ** //\n/** The name of the database for WordPress */\ndefine('DB_NAME', 'wordpress_default');\n\n/** MySQL database username */\ndefine('DB_USER', 'wp');\n\n/** MySQL database password */\ndefine('DB_PASSWORD', 'wp');\n\n/** MySQL hostname */\ndefine('DB_HOST', 'localhost');\n\n/** Database Charset to use in creating database tables. */\ndefine('DB_CHARSET', 'utf8');\n\n/** The Database Collate type. Don't change this if in doubt. */\ndefine('DB_COLLATE', '');\n	\ndefine('AUTH_KEY',         'g-ONIa3;z<$HDT~@^4O0C@pw2>4M=HuZrV69sJCeijQ+l4mkGjPAu )Zo32+Hj[?');\ndefine('SECURE_AUTH_KEY',  '`Q?`}`J=-?bN=b@fLp0|u%r76l9BFVz9W,:~9`HC_NbDO$</Sj4+x@U|<T<@v%$-');\ndefine('LOGGED_IN_KEY',    '/@c{.,|kGmbbHc-)rqyt+pgefRp^gELzTi[P]Pi^+wnJyaI^Ck_W^,@qcM3p)ov/');\ndefine('NONCE_KEY',        'EAxqqc7J-Yw>K/G7 <X,Q1MIasv{JLzzj6,QsG=T}95kol7eE%r-GpvVE+MH$@A4');\ndefine('AUTH_SALT',        '_RUvXrE;~TnautBiZ>Af.b_=Pcsa JrwV>ni$t,fFCNbV6]Pn5(y2,myBj%a;jVN');\ndefine('SECURE_AUTH_SALT', 'JcG-]}:%r|vRYuUh/MH+PlMAoOPkX7}gq#6nx0aznv7J!p|s+:7I*OO4R-x7Wf6Q');\ndefine('LOGGED_IN_SALT',   'H+3+$kva`PnQj|{VJRP8wy$~k<>U`p`u<c=^&PslNa-9|@2;y}Z (,+R|Xn;D3+#');\ndefine('NONCE_SALT',       'EgYX=Tb&G$XoH/v]RF_MxD2Y4}Jh7PzYoo%n=F:AB,5im>,EWA HcxEY!]%oO|a|');\n\n\n$table_prefix = 'wp_';\n\ndefine('WPLANG', '');\n\ndefine( 'WP_DEBUG', false );\n\n\n\n/* That's all, stop editing! Happy blogging. */\n\n/** Absolute path to the WordPress directory. */\nif ( !defined('ABSPATH') )\n	define('ABSPATH', dirname(__FILE__) . '/');\n\n/** Sets up WordPress vars and included files. */\nrequire_once(ABSPATH . 'wp-settings.php');\n",
+			"file": "/Users/apple/wordpress-vvv/www/wordpress-default/wp-config.php",
+			"file_size": 1591,
+			"file_write_time": 130619692750000000,
+			"settings":
+			{
+				"buffer_size": 1592,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"selected_items":
+		[
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git f",
+				"Git: Fetch"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git fet",
+				"Git: Fetch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Diff Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"git me",
+				"Git: Merge Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Clear sniffer marks"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"GIT co",
+				"Git: Commit"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"g",
+				"Git: Merge Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git staut",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"GIT pus",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"GIT ",
+				"Git: Status"
+			],
+			[
+				"git stua",
+				"Git: Status"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"git commit ",
+				"Git: Quick Commit"
+			],
+			[
+				"Snippet: com",
+				"Snippet: Comment Form Template"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Git co",
+				"Git: Commit"
+			],
+			[
+				"GIt a",
+				"Git: Add..."
+			],
+			[
+				"Git",
+				"Git: Status"
+			],
+			[
+				"Git a",
+				"Git: Add..."
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"Git ad",
+				"Git: Add..."
+			],
+			[
+				"Git q",
+				"Git: Quick Commit"
+			],
+			[
+				"GIT add",
+				"Git: Add..."
+			],
+			[
+				"Git pu",
+				"Git: Push"
+			],
+			[
+				"git re",
+				"Git: Graph Current File"
+			],
+			[
+				"GIT",
+				"Git: Status"
+			],
+			[
+				"git i",
+				"Git: Init"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"Java",
+				"Set Syntax: Java"
+			],
+			[
+				"git comi",
+				"Git: Commit history"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"git ci",
+				"Git: Commit"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"lara",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 608.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/wordpress-vvv/www/wordpress-default"
+	],
+	"file_history":
+	[
+		"/Users/apple/Desktop/aiw2014/app/admin/category.rb",
+		"/Users/apple/Desktop/aiw2014/config/database.yml",
+		"/Users/apple/Desktop/aiw2014/db/seeds.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141121072241_add_admin_to_posts.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141121071924_remove_user_id_to_posts.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141121043411_add_admin_user_to_post.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141113152723_create_posts.rb",
+		"/Users/apple/Desktop/aiw2014/app/helpers/application_helper.rb",
+		"/Users/apple/Desktop/aiw2014/app/controllers/application_controller.rb",
+		"/Applications/MAMP/htdocs/ruby/final_project/config/database.yml",
+		"/Users/apple/Desktop/aiw2014/app/models/user.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141121071104_add_addmin_user_to_posts.rb",
+		"/Users/apple/Desktop/aiw2014/Gemfile",
+		"/Users/apple/Desktop/aiw2014/config/initializers/active_admin.rb",
+		"/Users/apple/Desktop/aiw2014/app/admin/post.rb",
+		"/Users/apple/Desktop/aiw2014/app/views/layouts/_footer.html.erb",
+		"/Users/apple/Desktop/aiw2014/app/assets/stylesheets/active_admin.css.scss",
+		"/Users/apple/Desktop/aiw2014/app/assets/stylesheets/home.css.scss",
+		"/Users/apple/Desktop/aiw2014/app/views/layouts/application.html.erb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141125151856_remove.rb",
+		"/Users/apple/Desktop/aiw2014/config/routes.rb",
+		"/Users/apple/Desktop/aiw2014/app/assets/javascripts/application.js",
+		"/Users/apple/Desktop/aiw2014/app/assets/javascripts/agency.js",
+		"/Users/apple/Desktop/aiw2014/app/assets/stylesheets/application.css",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141125151957_remove_category_id_from_post.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141125154253_add_category_id_from_post.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141121183342_add_category_to_posts.rb",
+		"/Users/apple/Desktop/aiw2014/Rakefile",
+		"/Users/apple/Desktop/aiw2014/app/views/layouts/_header.html.erb",
+		"/Users/apple/Desktop/aiw2014/app/assets/javascripts/active_admin.js.coffee",
+		"/Users/apple/Desktop/aiw2014/html/css/agency.css",
+		"/Users/apple/Desktop/aiw2014/app/assets/stylesheets/agency.css",
+		"/Users/apple/Desktop/aiw2014/html/less/agency.less",
+		"/Users/apple/Desktop/aiw2014/html/js/agency.js",
+		"/Users/apple/Desktop/aiw2014/html/font-awesome-4.1.0/scss/_core.scss",
+		"/Users/apple/Desktop/aiw2014/app/models/admin_user.rb",
+		"/Users/apple/Desktop/aiw2014/app/models/post.rb",
+		"/Users/apple/Desktop/aiw2014/html/index.html",
+		"/Users/apple/Desktop/aiw2014/vendor/assets/javascripts/jquery.easing.min.js",
+		"/Users/apple/Desktop/aiw2014/tmp/cache/assets/development/sass/5723198f558fabe910bf4d564a1a79871f800a87/_header.css.scssc",
+		"/Users/apple/Desktop/aiw2014/html/css/images/header.svg",
+		"/Users/apple/Desktop/aiw2014/app/assets/images/header.svg",
+		"/Users/apple/Desktop/aiw2014/html/css/images/footer.svg",
+		"/Users/apple/Desktop/aiw2014/app/assets/images/footer.svg",
+		"/Users/apple/Desktop/aiw2014/app/admin/admin_user.rb",
+		"/Users/apple/Desktop/aiw2014/app/models/category.rb",
+		"/Users/apple/Desktop/aiw2014/config/application.rb",
+		"/Users/apple/Desktop/aiw2014/app/admin/page.rb",
+		"/Users/apple/Desktop/aiw2014/app/admin/user.rb",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141121074940_create_posts.rb",
+		"/Users/apple/Desktop/aiw2014/tmp/cache/assets/development/sass/7bdff8c2ff51350370515d116f9bb9be55dcb55c/_comments.css.scssc",
+		"/Users/apple/Desktop/aiw2014/config.ru",
+		"/Users/apple/Desktop/aiw2014/test/test_helper.rb",
+		"/Users/apple/Desktop/aiw2014/html/left-sidebar.html",
+		"/Users/apple/Desktop/aiw2014/app/controllers/home_controller.rb",
+		"/Users/apple/Desktop/aiw2014/tmp/cache/assets/development/sass/34fa2fb9d9d322f9e8ac91bf139d3a3c719c7c89/_asset-pipeline.scssc",
+		"/Users/apple/Desktop/aiw2014/tmp/cache/assets/development/sass/8010f6e7a569e45f3d5fe229a5dc304bcc360e0f/_user-select.scssc",
+		"/Users/apple/Desktop/aiw2014/config/secrets.yml",
+		"/Users/apple/Desktop/aiw2014/bin/spring",
+		"/Users/apple/Desktop/aiw2014/db/migrate/20141101035725_devise_create_admin_users.rb",
+		"/Applications/MAMP/htdocs/final_aiw.sublime-project",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/js/pace.js",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/css/progress.min.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/js/progress.min.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/brooklyn/inc/lib/ut-plugin-activation-class.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/page.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/inc/phpFlickr/phpFlickr.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/css/pace-center-atom.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/brooklyn/inc/ut-template-tags.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/brooklyn/js/ut-init.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/brooklyn/inc/ut-image-resize.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/css/ut-importer.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/brooklyn/widgets/ut_flickr_widget.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/demo-importer.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/meta-box/css/image.css",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/index.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/recommend-plugins.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/header.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/vc-extend-template/asset/vc_new_templates/vc_row.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/vc-extend-template/shortcode.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/js/ut-importer.js",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/footer.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/widget-areas.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/elijah/elijah/blog.html",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/README.md",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/css/rs-extralayers.css",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/woocommerce/single-product-reviews.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/.sass-cache/0c6e668294147076e8f876cd3cfa23f6247928c3/preload.scssc",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/.git/MERGE_MSG",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/.sass-cache/0c6e668294147076e8f876cd3cfa23f6247928c3/general.scssc",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/inc/clockpicker/assets/css/github.min.css",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/inc/plugin/smoothscroll/ScrollToPlugin.min.js",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/woocommerce/global/quantity-input.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/inc/widgets.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/widgets.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/css/ut-nav-manager.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/assets/xml/unzip/demo_nine.xml",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/scss/source/infor-text.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/ReduxCore/inc/fields/text/field_text.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/ReduxCore/inc/fields/multi_text/field_multi_text.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/vc-extend-template/asset/vc_new_templates/mauris_fact_number.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/ReduxCore/inc/class.redux_functions.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/admin/flash-message.php",
+		"/Applications/MAMP/htdocs/ruby/final_project/.git/COMMIT_EDITMSG",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/theme-setup.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/css/theme-lima.css",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/css/theme-flamingo.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/scss/theme/style-conifer.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/ajax-portfolio.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/vc-extend-template/asset/vc_new_templates/mauris_address_block.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/css/scss/style/about.scss",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/vc-extend-template/asset/vc_new_templates/vc_accordion.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/vc-extend-template/asset/vc_new_templates/vc_column.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/js/validate.contact.js",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/inc/shortcode.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/css/style-heliotrope.css",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/css/style.css",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/meta-box/demo/demo.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/js/ht.js",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/custom-comment.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/content.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/custom-menus.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/custom-posts.php",
+		"/Applications/MAMP/htdocs/hainthemes/themeforest/wordpress-royalty/wp-content/themes/royalty/woocommerce/emails/customer-processing-order.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/scripts.php",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/js/meta.js",
+		"/Users/apple/wordpress-vvv/www/elijah-wp/wp-content/themes/elijah/functions/extras.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=",
+			"image",
+			"back",
+			"header",
+			"img",
+			"medium",
+			"password",
+			"loading",
+			"bootstrap",
+			"ut_import_loaded",
+			"update_option",
+			"widget",
+			"Mauris_Rev",
+			"UniteFunctionsRev",
+			"ut-import-revslider",
+			"import",
+			"ut_load_layout_into_ot",
+			"mauris_demo_file",
+			"ut_demo_file",
+			"ut_import_demo_content",
+			"ut-",
+			"pre-footer",
+			"style",
+			"ht-dropdown-t",
+			"rwmb",
+			"link",
+			"project",
+			"Project",
+			"project",
+			"filter",
+			"THEME.DIR",
+			"get_template_directory()",
+			"comment_form",
+			"name_submit",
+			"submit",
+			"project",
+			"vvv",
+			"dev",
+			"wordpress",
+			"dev",
+			"name",
+			"side-content",
+			"header",
+			"slide",
+			"mauris",
+			"blog detail",
+			"bog ",
+			"bog detail",
+			"blog",
+			"nav_menu_locations",
+			"get_theme_mod",
+			"bump",
+			"bum",
+			"max_wxr_version",
+			"ut_import_demo_content",
+			"UT_WP_Import",
+			"ut_view_updater",
+			"ut_demo_file",
+			"ut_import_demo_content",
+			"header",
+			"ut_import_loaded",
+			"ut_demo_importer",
+			"unitedthemes",
+			"Import Demo",
+			"ut_demo",
+			"ut_view_update",
+			"slider",
+			"haintheme.slider",
+			"flex",
+			"default",
+			"#portfolio",
+			"port-di",
+			"$post->id",
+			"md101",
+			"$post->ID",
+			"#ht-main-content.homepage div#ht-pre-footer",
+			"pre-footer",
+			"portfolio",
+			"is-loading",
+			"body",
+			"ht-port",
+			"portfolio",
+			"font",
+			"rAds",
+			"                '",
+			"setA",
+			"header",
+			"page header",
+			"contact",
+			"menu",
+			"var",
+			"style",
+			"slide",
+			"mauris_HT_TOP_AREA_makeOut",
+			"redux-header",
+			"ht-header",
+			"flickr",
+			"mobile-",
+			"child",
+			"nav_bar",
+			"required_menu_fallback",
+			"autoone",
+			"project_item_slides",
+			"Pricing",
+			"pricing",
+			"ricing",
+			"blog",
+			"video",
+			"rnr",
+			"wpdb",
+			"testimoninal",
+			"testinominal",
+			"member",
+			"members",
+			"Members",
+			"members",
+			"Members",
+			"members",
+			"Members",
+			"get_the_ID",
+			"../",
+			"..",
+			"wpb_get_post_views",
+			"rwmb",
+			"date",
+			"setcookie",
+			"$smof_data",
+			"your_prefix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"THEME_DIR",
+			"THEME.DIR",
+			"",
+			"THEME_DIR",
+			".wpb_wrapper",
+			"$id_portfolio",
+			"mauris_top_area",
+			"",
+			"haintheme.com",
+			"mauris",
+			"get_template_directory_uri()",
+			"royalty",
+			"_e( 'Description:', 'royalty' )",
+			"_e( 'Title:', 'royalty' )",
+			"images",
+			"<?php bloginfo('template_directory'); ?>/images",
+			"",
+			"<?php bloginfo('template_directory'); ?>/images",
+			"",
+			"images",
+			"imgtodrag",
+			"imgtofly"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/apple/wordpress-vvv/www/wordpress-default/wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.markdown":
+	{
+		"height": 114.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "ebz.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"_foo",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"agen",
+				"app/assets/stylesheets/agency.css"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"_head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"post",
+				"app/admin/post.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"application",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"application.c",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"p",
+				"app/admin/post.rb"
+			],
+			[
+				"admin",
+				"app/models/admin_user.rb"
+			],
+			[
+				"hlep",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"user",
+				"app/admin/user.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"pace",
+				"elijah/admin/assets/js/pace.js"
+			],
+			[
+				"importer",
+				"brooklyn/admin/ut-demo-importer.php"
+			],
+			[
+				"read",
+				"elijah/README.md"
+			],
+			[
+				"theme",
+				"elijah/functions/theme-options.php"
+			],
+			[
+				"widget",
+				"elijah/functions/widget-areas.php"
+			],
+			[
+				"ut-load",
+				"brooklyn/admin/ut-layout-loader.php"
+			],
+			[
+				"function",
+				"elijah/functions.php"
+			],
+			[
+				"vc_row",
+				"elijah/functions/vc-extend-template/asset/vc_new_templates/vc_row.php"
+			],
+			[
+				"shortco",
+				"elijah/functions/vc-extend-template/shortcode.php"
+			],
+			[
+				"demo",
+				"elijah/admin/demo-importer.php"
+			],
+			[
+				"custom-me",
+				"elijah/functions/custom-menus.php"
+			],
+			[
+				"portf",
+				"elijah/content-portfolio.php"
+			],
+			[
+				"ex",
+				"elijah/functions/extras.php"
+			],
+			[
+				"page",
+				"elijah/page.php"
+			],
+			[
+				"single",
+				"elijah/single.php"
+			],
+			[
+				"archive",
+				"elijah/archive.php"
+			],
+			[
+				"custom",
+				"elijah/functions/custom-comment.php"
+			],
+			[
+				"searchform",
+				"elijah/searchform.php"
+			],
+			[
+				"script",
+				"elijah/functions/scripts.php"
+			],
+			[
+				"content-p",
+				"elijah/content-portfolio.php"
+			],
+			[
+				"style",
+				"elijah/style.css"
+			],
+			[
+				"sty",
+				"royalty/css/style.css"
+			],
+			[
+				"comment",
+				"elijah/comments.php"
+			],
+			[
+				"content",
+				"elijah/content-single.php"
+			],
+			[
+				"sinl",
+				"elijah/single.php"
+			],
+			[
+				"comments",
+				"elijah/comments.php"
+			],
+			[
+				"hosts",
+				"www/vvv-hosts"
+			],
+			[
+				"ut-demo",
+				"brooklyn/admin/ut-demo-importer.php"
+			],
+			[
+				"ht-aja",
+				"elijah/js/ht-ajax-portfolio.js"
+			],
+			[
+				"ht-js",
+				"royalty/js/ht-js.js"
+			],
+			[
+				"ajax",
+				"elijah/functions/ajax-portfolio.php"
+			],
+			[
+				"scr",
+				"elijah/functions/scripts.php"
+			],
+			[
+				"menu-de",
+				"elijah/templates/menu-default.php"
+			],
+			[
+				"theme-set",
+				"elijah/functions/theme-setup.php"
+			],
+			[
+				"content-port",
+				"elijah/content-portfolio.php"
+			],
+			[
+				"ht",
+				"elijah/js/ht.js"
+			],
+			[
+				"php",
+				"royalty/inc/phpFlickr/phpFlickr.php"
+			],
+			[
+				"index",
+				"royalty/index.php"
+			],
+			[
+				"custom-post",
+				"elijah/functions/custom-posts.php"
+			],
+			[
+				"class.re",
+				"elijah/functions/ReduxCore/inc/class.redux_functions.php"
+			],
+			[
+				"template-home",
+				"royalty/template-home.php"
+			],
+			[
+				"scripts",
+				"elijah/functions/scripts.php"
+			],
+			[
+				"funt",
+				"elijah/functions.php"
+			],
+			[
+				"blog",
+				"elijah/blog.html"
+			],
+			[
+				"short",
+				"wordpress-royalty/wp-content/themes/royalty/inc/shortcode.php"
+			],
+			[
+				"config",
+				"wordpress-royalty/wp-config.php"
+			],
+			[
+				"comments.php",
+				"wordpress-royalty/wp-content/themes/royalty/comments.php"
+			],
+			[
+				"page.php",
+				"wordpress-royalty/wp-content/themes/royalty/page.php"
+			],
+			[
+				"functions.php",
+				"wordpress-royalty/wp-content/themes/royalty/functions.php"
+			],
+			[
+				"ht-",
+				"wordpress-royalty/wp-content/themes/royalty/js/ht-js.js"
+			],
+			[
+				"header.",
+				"wordpress-royalty/wp-content/themes/royalty/header.php"
+			],
+			[
+				"functi",
+				"wordpress-royalty/wp-includes/functions.php"
+			],
+			[
+				"royalty/index",
+				"wordpress-royalty/wp-content/themes/royalty/index.php"
+			],
+			[
+				"footer.php",
+				"wordpress-royalty/wp-content/themes/royalty/footer.php"
+			],
+			[
+				"header.php",
+				"wordpress-royalty/wp-content/themes/royalty/header.php"
+			],
+			[
+				"readme.md",
+				"wordpress-royalty/README.md"
+			],
+			[
+				"nav-menu",
+				"wordpress-royalty/wp-includes/nav-menu.php"
+			],
+			[
+				"con",
+				"wp-config.php"
+			],
+			[
+				"main.",
+				"app/views/layout/main.blade.php"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			],
+			[
+				"funtio",
+				"wp-content/themes/donki/functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/ohmygod.sublime-project"
+			],
+			[
+				"tan",
+				"/Applications/MAMP/htdocs/tanstutu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

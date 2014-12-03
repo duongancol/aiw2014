@@ -1,51 +1,40 @@
-<div id="header-wrapper">
-	<div id="header" class="container">
-		
-		<!-- Logo -->
-			<h1 id="logo"><a href="index.html">Telephasic</a></h1>
-		
-		<!-- Nav -->
-			<nav id="nav">
-				<ul>
-					<li>
-						<a href="">Dropdown</a>
-						<ul>
-							<li><a href="#">Lorem ipsum dolor</a></li>
-							<li><a href="#">Magna phasellus</a></li>
-							<li><a href="#">Etiam dolore nisl</a></li>
-							<li>
-								<a href="">Phasellus consequat</a>
-								<ul>
-									<li><a href="#">Lorem ipsum dolor</a></li>
-									<li><a href="#">Phasellus consequat</a></li>
-									<li><a href="#">Magna phasellus</a></li>
-									<li><a href="#">Etiam dolore nisl</a></li>
-								</ul>
-							</li>
-							<li><a href="#">Veroeros feugiat</a></li>
-						</ul>
-					</li>
-					<li><a href="left-sidebar.html">Left Sidebar</a></li>
-					<li class="break"><a href="right-sidebar.html">Right Sidebar</a></li>
-					<li><a href="no-sidebar.html">No Sidebar</a></li>
-				</ul>
-			</nav>
+<!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <%= link_to "Apple News", home_path, class: "navbar-brand page-scroll" %>
+            </div>
 
-	</div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                       <%= link_to 'Services', posts_services_path %>
+                    </li>
+                    <li>
+                       <%= link_to 'Portfolio', posts_portfolio_path %>
+                    </li>
+                    <li>
+                        <%= link_to 'About', posts_about_path %>
+                    </li>
+                    <li>
+                        <%= link_to 'Leaders', posts_team_path %>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
 
-	<!-- Hero -->
-		<section id="hero" class="container">
-			<header>
-				<h2>Telephasic is a responsive
-				<br />
-				site template by <a href="http://html5up.net">HTML5 UP</a></h2>
-			</header>
-			<p>Designed and built on <strong>skel</strong> by <a href="http://n33.co">AJ</a>. Released for free under
-			<br />
-			the <a href="http://html5up.net/license">Creative Commons Attribution 3.0 license</a>.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">Get this party started</a></li>
-			</ul>
-		</section>
-
-</div>
+    

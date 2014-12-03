@@ -19,6 +19,7 @@ ActiveAdmin.register Post do
       f.input :title
       f.input :content, :as => :ckeditor, height: :medium
       f.input :category
+      f.input :image, :as => :file, required: false
       f.input :created_user, value:current_admin_user.email
     end
 
@@ -32,5 +33,6 @@ ActiveAdmin.register Post do
     end  
 
   end
+
   
 end
