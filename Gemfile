@@ -52,4 +52,5 @@ gem 'activeadmin', github: 'activeadmin'
 gem "ckeditor"
 gem "paperclip"
 
+gem 'carrierwave', '~> 0.9'
 

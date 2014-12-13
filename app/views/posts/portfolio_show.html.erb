@@ -1,0 +1,12 @@
+<section class="section products">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				
+				<h1><%= @product.title %></h1>
+				<%= image_tag @product.avatar.url, :class => 'img-responsive' %>
+				<%= raw @product.content %>
+			</div>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,27 @@
+<%  @i = 0 %>
+<% @posts.each do |post| %>
+	<% 
+		if(@i % 2 == 0 )
+			@style = 'inverted'
+		else
+			@style = 'image'
+		
+		end
+	%>
+
+
+    <li class="timeline-<%= @style %>">
+        <div class="timeline-image">
+            <%= image_tag(post.avatar.url, class: "img-circle img-responsive") %>
+        </div>
+        <div class="timeline-panel">
+            <div class="timeline-heading">    
+                <h4 class="subheading"><%= link_to post.title, {:controller => "posts", :action => "about_show", :id => post } %></h4>
+            </div>
+            <div class="timeline-body">
+                <%= raw post.content %>
+            </div>
+        </div>
+    </li>
+    <% @i +=1 %>
+<% end %>

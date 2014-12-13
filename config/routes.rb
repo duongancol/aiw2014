@@ -5,14 +5,19 @@ Rails.application.routes.draw do
   get 'home/index' => 'home#index', :as => 'home'
   get 'home/sample'
 
-  get 'posts/about'
-  get 'posts/portfolio'
-  get 'posts/services'
-  get 'posts/team'
-
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
+  
   devise_for :users
+  get 'posts/about'
+  get 'posts/about_show/:id' => 'posts#about_show', :as => 'about_show'
+  get 'posts/services'
+  get 'posts/team'
+  get 'posts/team_show/:id' => 'posts#team_show', :as => 'team_show'
+  get 'posts/search' => 'posts#search', :as => 'posts_search'
+  get 'posts/portfolio'
+  get 'posts/:id' => 'posts#portfolio_show', :as => 'portfolio_show'
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

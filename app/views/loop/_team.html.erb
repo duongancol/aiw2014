@@ -1,0 +1,19 @@
+<% @teams.each do |team| %>
+    
+<div class="col-sm-4">
+    <div class="team-member">
+        <%= image_tag(team.avatar.url, class: "img-circle img-responsive") %>
+        <h4><%= link_to team.title, {:controller => "posts", :action => "team_show", :id => team} %></h4>
+        <p class="text-muted"><%= team.content.html_safe %></p>
+        <ul class="list-inline social-buttons">
+            <li><a href="#"><i class="fa fa-twitter"></i></a>
+            </li>
+            <li><a href="#"><i class="fa fa-facebook"></i></a>
+            </li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<% end %>
+

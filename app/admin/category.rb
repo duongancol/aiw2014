@@ -15,5 +15,8 @@ ActiveAdmin.register Category do
   # end
 
   permit_params :title
+  def to_s
+    title
+  end
 
 end

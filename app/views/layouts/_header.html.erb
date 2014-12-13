@@ -22,7 +22,7 @@
                        <%= link_to 'Services', posts_services_path %>
                     </li>
                     <li>
-                       <%= link_to 'Portfolio', posts_portfolio_path %>
+                       <%= link_to 'Products', posts_portfolio_path %>
                     </li>
                     <li>
                         <%= link_to 'About', posts_about_path %>
@@ -30,8 +30,17 @@
                     <li>
                         <%= link_to 'Leaders', posts_team_path %>
                     </li>
+
                 </ul>
+                <%= form_tag(posts_search_path, :method => "get", id: "search-form", class: "navbar-form navbar-left") do %>
+
+                    <div class="form-group">
+                    <%= text_field_tag :search, params[:search], class: "form-control" %>
+                    </div>
+                    <%= submit_tag "Search", class: "btn btn-default" %>  
+                <% end %>
             </div>
+
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->

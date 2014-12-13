@@ -1,0 +1,9 @@
+<section class="about">
+	<div class="container">
+		<div class="row">
+			<h1><%= @post.title %></h1>
+			<%= image_tag @post.avatar.url, :class => 'img-responsive' %>
+			<%= raw @post.content %>
+		</div>
+	</div>
+</section>

@@ -520,13 +520,10 @@
 	"buffers":
 	[
 		{
-			"contents": "<?php\n\n\n// ** MySQL settings ** //\n/** The name of the database for WordPress */\ndefine('DB_NAME', 'wordpress_default');\n\n/** MySQL database username */\ndefine('DB_USER', 'wp');\n\n/** MySQL database password */\ndefine('DB_PASSWORD', 'wp');\n\n/** MySQL hostname */\ndefine('DB_HOST', 'localhost');\n\n/** Database Charset to use in creating database tables. */\ndefine('DB_CHARSET', 'utf8');\n\n/** The Database Collate type. Don't change this if in doubt. */\ndefine('DB_COLLATE', '');\n	\ndefine('AUTH_KEY',         'g-ONIa3;z<$HDT~@^4O0C@pw2>4M=HuZrV69sJCeijQ+l4mkGjPAu )Zo32+Hj[?');\ndefine('SECURE_AUTH_KEY',  '`Q?`}`J=-?bN=b@fLp0|u%r76l9BFVz9W,:~9`HC_NbDO$</Sj4+x@U|<T<@v%$-');\ndefine('LOGGED_IN_KEY',    '/@c{.,|kGmbbHc-)rqyt+pgefRp^gELzTi[P]Pi^+wnJyaI^Ck_W^,@qcM3p)ov/');\ndefine('NONCE_KEY',        'EAxqqc7J-Yw>K/G7 <X,Q1MIasv{JLzzj6,QsG=T}95kol7eE%r-GpvVE+MH$@A4');\ndefine('AUTH_SALT',        '_RUvXrE;~TnautBiZ>Af.b_=Pcsa JrwV>ni$t,fFCNbV6]Pn5(y2,myBj%a;jVN');\ndefine('SECURE_AUTH_SALT', 'JcG-]}:%r|vRYuUh/MH+PlMAoOPkX7}gq#6nx0aznv7J!p|s+:7I*OO4R-x7Wf6Q');\ndefine('LOGGED_IN_SALT',   'H+3+$kva`PnQj|{VJRP8wy$~k<>U`p`u<c=^&PslNa-9|@2;y}Z (,+R|Xn;D3+#');\ndefine('NONCE_SALT',       'EgYX=Tb&G$XoH/v]RF_MxD2Y4}Jh7PzYoo%n=F:AB,5im>,EWA HcxEY!]%oO|a|');\n\n\n$table_prefix = 'wp_';\n\ndefine('WPLANG', '');\n\ndefine( 'WP_DEBUG', false );\n\n\n\n/* That's all, stop editing! Happy blogging. */\n\n/** Absolute path to the WordPress directory. */\nif ( !defined('ABSPATH') )\n	define('ABSPATH', dirname(__FILE__) . '/');\n\n/** Sets up WordPress vars and included files. */\nrequire_once(ABSPATH . 'wp-settings.php');\n",
 			"file": "/Users/apple/wordpress-vvv/www/wordpress-default/wp-config.php",
-			"file_size": 1591,
-			"file_write_time": 130619692750000000,
 			"settings":
 			{
-				"buffer_size": 1592,
+				"buffer_size": 1626,
 				"line_ending": "Unix"
 			}
 		}
@@ -1202,15 +1199,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1592,
+						"buffer_size": 1626,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								478,
-								478
+								1271,
+								1271
 							]
 						],
 						"settings":
@@ -1218,21 +1215,16 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1243,31 +1235,36 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1784,6 +1781,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"ebz",
+				"/Applications/MAMP/htdocs/ebz.sublime-project"
+			],
 			[
 				"",
 				"/Applications/MAMP/htdocs/ohmygod.sublime-project"

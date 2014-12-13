@@ -1,0 +1,14 @@
+<section class="section team">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5">
+				
+				<%= image_tag @team.avatar.url, :class => 'img-responsive' %>
+			</div>
+			<div class="col-md-7">
+				<h1><%= @team.title %></h1>
+				<%= @team.content.html_safe %>
+			</div>
+		</div>
+	</div>
+</section>
