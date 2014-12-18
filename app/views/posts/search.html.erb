@@ -8,22 +8,26 @@
                 </div>
             </div>
             <div class="row">
-            <% @products.each do |product| %>
-                
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="/posts/<%= product.id %>" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+            <% if @products.present? %>
+                <% @products.each do |product| %>
+                    
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/posts/<%= product.id %>" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
                             </div>
+                            <%= image_tag(product.avatar.url, class: "img-responsive") %>
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4><%= product.title %></h4>
+                            <p class="text-muted"><%= excerpt product.content, 'is', radius: 25 %></p>
                         </div>
-                        <%= image_tag(product.avatar.url, class: "img-responsive") %>
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4><%= product.title %></h4>
-                        <p class="text-muted"><%= excerpt product.content, 'is', radius: 25 %></p>
                     </div>
-                </div>
+                <% end %>
+            <% else %>
+                <h1>Search not found!</h1>
             <% end %>
                 
             </div>
