@@ -38,4 +38,23 @@ class PostsController < ApplicationController
 		end	
 	end
 
+	# GET /screencasts
+	  # GET /screencasts.json
+	  def index
+	  	if params[:title]
+		    render json: Post.search(params[:title])
+  		else
+	    	render json: Post.all
+    	end
+	  end
+
+	  # GET /Posts/:id
+	  # GET /Posts/:id.json
+	  def show
+	  	render json: Post.find(params[:id])
+	  end
+
+	  def api_search
+	  end
+
 end

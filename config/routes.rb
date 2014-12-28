@@ -18,6 +18,12 @@ Rails.application.routes.draw do
   get 'posts/portfolio'
   get 'posts/:id' => 'posts#portfolio_show', :as => 'portfolio_show'
 
+  scope :api do
+    get "/products(.:format)" => "posts#index"
+    get "/products/:id(.:format)" => "posts#show"
+    # get "/products(.:format)" => "posts#api_search"
+  end
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
